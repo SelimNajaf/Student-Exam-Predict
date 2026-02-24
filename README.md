@@ -35,7 +35,7 @@ The model is trained on a dataset (`train.csv`) encompassing various factors tha
 ## 🛠️ Project Architecture
 
 ```text
-├── train_model.ipynb                             # ML training script (Pipeline, GridSearchCV, Export)
+├── train_model.ipynb                          # ML training script (Pipeline, GridSearchCV, Export)
 ├── app.py                                     # Streamlit web application interface
 ├── train.csv                                  # Raw training dataset [Not included, download required]
 ├── student_exam_predict_pipeline.joblib       # Serialized Scikit-Learn pipeline (Generated Output)
