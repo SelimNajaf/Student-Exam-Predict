@@ -21,7 +21,6 @@ This repository demonstrates professional machine learning workflows: dynamic da
 
 ## 📊 Data Description
 The model is trained on a dataset (`train.csv`) encompassing various factors that influence student success. 
-*🔗 **Dataset Link:** [Insert Dataset Link Here]*
 
 **Input Features:**
 *   **Personal Details:** `age`, `gender`, `course` (e.g., B.Sc, BCA, B.Tech)
